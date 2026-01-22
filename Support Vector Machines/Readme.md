@@ -1,11 +1,11 @@
-🩺 Diabetes Prediction using Support Vector Machine (SVM)
-📌 Project Overview
+# 🩺 Diabetes Prediction using Support Vector Machine (SVM)
+## 📌 Project Overview
 
 This project implements a Support Vector Machine (SVM) model to predict whether a person is diabetic based on medical diagnostic measurements. The goal is to build an accurate classification model and evaluate its performance using standard machine learning metrics.
 
 The dataset used is the Pima Indians Diabetes Dataset, a well-known benchmark dataset for binary classification problems.
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 
 Diabetes is a chronic disease that requires early detection for effective treatment.
 Using patient health parameters, this project predicts:
@@ -14,7 +14,7 @@ Using patient health parameters, this project predicts:
 
 1 → Diabetic
 
-📂 Dataset Information
+## 📂 Dataset Information
 
 Source: Pima Indians Diabetes Dataset (UCI / Kaggle)
 
@@ -40,7 +40,7 @@ Target:
 
 Outcome (0 or 1)
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Python
 
@@ -52,7 +52,7 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
-🔍 Methodology
+## 🔍 Methodology
 
 Data Loading & Exploration
 
@@ -78,7 +78,7 @@ Confusion matrix
 
 Classification report
 
-📊 Results
+## 📊 Results
 
 Achieved good classification accuracy on test data.
 
@@ -86,7 +86,7 @@ Model effectively distinguishes between diabetic and non-diabetic patients.
 
 (You can update this section with your actual accuracy, e.g., “Accuracy: 78%”.)
 
-🛠️ How to Run the Project
+## 🛠️ How to Run the Project
 
 Clone the repository:
 
@@ -114,25 +114,9 @@ python svm_diabetes.py
 ├── README.md
 └── requirements.txt
 
-📌 Future Improvements
 
-Hyperparameter tuning using GridSearchCV
-
-Try other classifiers (Logistic Regression, Random Forest, KNN)
-
-Deploy using Flask / Streamlit
-
-Handle missing values more robustly
-
-🤝 Acknowledgements
-
-UCI Machine Learning Repository
-
-Kaggle
-
-Scikit-learn documentation
 
 👤 Author
 
 Paras Rajput
-Computer Science Student | Data Analytics & Machine Learning Enthusiast
+Computer Science Student | Data Analytics & Machine Learning Engineer
