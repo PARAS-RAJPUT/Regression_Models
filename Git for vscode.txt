@@ -1,5 +1,0 @@
-New-Item "A\Special_Permutation.cpp"
-New-Item "B\1454A_Codeforces.cpp"
-git add .
-git commit -m "Add A-F folders and initial solutions"
-git push -u origin main
