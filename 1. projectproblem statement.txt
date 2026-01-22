@@ -1,6 +1,0 @@
-1. project/problem statement
-2. objectives (4 objectives)
-3. How you solved these objective\s
-a. problem statement formulation : Investigate the trend of incident acc. to data
-
-objective 1:  
