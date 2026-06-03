@@ -163,10 +163,3 @@ Create a dataframe to compare metrics of different models.
 * Deploy the model using Flask/Streamlit
 
 ---
-
-
-## 📧 Contact
-
-If you have questions or need help for a specific Kaggle dataset, feel free to ask
-on E Mail : parasrajput987045@gmail.com
- 
