@@ -4,13 +4,13 @@ This README provides a complete overview of how to build, train, evaluate, and i
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates how to perform regression analysis using a Kaggle dataset. The goal is to predict a continuous target variable (e.g., house price, sales amount, medical cost, etc.) using machine learning techniques. The workflow includes data preprocessing, feature engineering, model training, evaluation, and visualization.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * **Source:** Kaggle
 * **Format:** CSV
@@ -21,7 +21,7 @@ Make sure to download the dataset and place it in your project directory.
 
 ---
 
-## 🛠️ Technologies & Libraries Used
+## Technologies & Libraries Used
 
 * Python
 * Pandas
@@ -32,7 +32,7 @@ Make sure to download the dataset and place it in your project directory.
 
 ---
 
-## 🚀 Steps Performed
+## Steps Performed
 
 ### 1. Import Required Libraries
 
@@ -117,7 +117,7 @@ Create a dataframe to compare metrics of different models.
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 * Best performing model: *[Mention model]*
 * Achieved R² score: *value*
@@ -125,7 +125,7 @@ Create a dataframe to compare metrics of different models.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 |-- data/
@@ -139,7 +139,7 @@ Create a dataframe to compare metrics of different models.
 
 ---
 
-## 📝 How to Run the Project
+## How to Run the Project
 
 1. Clone the repository
 2. Install required libraries:
@@ -155,7 +155,7 @@ Create a dataframe to compare metrics of different models.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Hyperparameter tuning
 * Add cross-validation
